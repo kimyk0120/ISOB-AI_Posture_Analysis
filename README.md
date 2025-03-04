@@ -53,19 +53,19 @@ ISOB은 두 명의 개발 스터디 팀원으로 구성된 TEAMK의 사이드 �
 
 ISOB은 다음의 기술을 사용하여 개발되었습니다. 
 
-📱 **프론트엔드**: React Native, Android
+- **프론트엔드**: React Native, Android
 
-💻 **백엔드**: Java, Spring Boot, JPA, Swagger, JWT, Security, QueryDSL, Lombok
+- **백엔드**: Java, Spring Boot, JPA, Swagger, JWT, Security, QueryDSL, Lombok
 
-🗄️ **데이터베이스**: MariaDB
+- **데이터베이스**: MariaDB
 
-🎨 **UI**: Figma
+- **UI**: Figma
 
-🤝 **협업 도구**: Jira 애자일보드
+- **협업 도구**: Jira 애자일보드
 
-🔄 CI/CD : Github Action
+- CI/CD : Github Action
 
-☁️ Cloud : Oracle Cloud  
+- Cloud : Oracle Cloud  
 
 
 ### 🔹 개발 프레임워크
