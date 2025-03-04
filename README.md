@@ -119,8 +119,8 @@ JNI를 활용해 C++에서 Java의 AssetManager를 호출하여 TFLite 모델 �
 </br>
 
 ## TEAMK
-
-![Teamk](teamk2.png){width=auto}
+<img src="teamk2.png" alt="teamk" width="300">
+<!-- ![Teamk](teamk2.png){width=auto} -->
 
 
 
