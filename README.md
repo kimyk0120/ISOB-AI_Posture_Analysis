@@ -62,10 +62,8 @@ ISOB은 다음의 기술을 사용하여 개발되었습니다.
 - **UI**: Figma
 
 - **협업 도구**: Jira 애자일보드
-
-- CI/CD : Github Action
-
-- Cloud : Oracle Cloud  
+- **CI/CD** : Github Action
+- **Cloud** : Oracle Cloud  
 
 
 ### 🔹 개발 프레임워크
