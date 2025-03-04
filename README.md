@@ -117,19 +117,8 @@ JNI를 활용해 C++에서 Java의 AssetManager를 호출하여 TFLite 모델 �
 </br>
 
 ## TEAMK
-<!-- <img src="teamk2.png" alt="teamk" width="1000"> -->
+<!-- <img src="teamk2.png" alt="teamk" width="500"> -->
 <!-- ![Teamk](teamk2.png){width=auto} -->
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
-        <h3>📌 Column 1</h3>
-        <p>이쪽은 첫 번째 칸입니다.</p>
-    </div>
-    <div style="width: 48%;">
-        <h3>📌 Column 2</h3>
-        <p>이쪽은 두 번째 칸입니다.</p>
-    </div>
-</div>
 
 
 
