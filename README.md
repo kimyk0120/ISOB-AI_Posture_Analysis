@@ -102,6 +102,6 @@ ISOB 프로젝트에서는 **Github Action**을 사용하여 **CI/CD 파이프�
 
 JNI를 활용해 C++에서 Java의 AssetManager를 호출하여 TFLite 모델 파일을 바이너리로 로드하였으며, C++과 OpenCV를 사용해 데이터 전처리를 수행하고, TFLite의 Movenet 모델을 GPU 모드로 최적화하여 추론을 실행하였습니다.
 
-# ![Teamk](teamk.png)
+// ![Teamk](teamk.png)
 
 
