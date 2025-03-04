@@ -53,7 +53,7 @@ ISOB은 두 명의 개발 스터디 팀원으로 구성된 TEAMK의 사이드 �
 
 ISOB은 다음의 기술을 사용하여 개발되었습니다. 
 
-- **프론트엔드**: React Native, Android
+- **프론트엔드**: React Native
 
 - **백엔드**: Java, Spring Boot, JPA, Swagger, JWT, Security, QueryDSL, Lombok
 
