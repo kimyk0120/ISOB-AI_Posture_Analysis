@@ -1,4 +1,4 @@
-# [ISOB - AI 기반 자세 분석 애플리케이션](https://play.google.com/store/apps/details?id=com.isob)
+# [ISOB - AI 자세 분석 애플리케이션](https://play.google.com/store/apps/details?id=com.isob)
 
 ### ▶️ ISOB?
 
