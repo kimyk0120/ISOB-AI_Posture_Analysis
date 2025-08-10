@@ -6,7 +6,7 @@
 인공지능을 기반으로 한 자동 인체 인식 기술과 의학적 알고리즘을 통해 사용자의 자세를 정밀하게 분석하며, 시계열 데이터 기록과 그래프 기능을 통해 자세 변화를 추적할 수 있도록 설계되었습니다. 
 또한, 분석 결과를 효율적으로 관리할 수 있는 기능을 제공하여 사용자들이 자신의 건강을 보다 체계적으로 관리할 수 있도록 돕습니다.**  
 
-[다운로드링크](https://play.google.com/store/apps/details?id=com.isob)
+👉 [Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.isob)
 
 ![Screenshot_20250224_165448_isob.jpg](isob_img_01.png)
 
